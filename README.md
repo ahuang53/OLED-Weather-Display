@@ -1,5 +1,4 @@
 # OLED Weather Display Project #
-This is a repository for my OLED Weather Display
 
 ## Project Goal
 The aim of this project is to demonstrate my understanding of Real Time Operating System (RTOS) through ESP-IDF's implementation of
