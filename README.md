@@ -1,5 +1,3 @@
-# OLED Weather Display Project #
-
 ## Project Goal
 The aim of this project is to demonstrate my understanding of Real Time Operating System (RTOS) through ESP-IDF's implementation of
 FreeRTOS. This was done through a practical and easy-to-understand embedded system on the ESP32 Development Board.
